@@ -27,5 +27,5 @@ I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building me
 - [Insurance Renewal Prediction: A machine learning project predicting insurance renewal likelihood](https://github.com/sophiebits/insurance-renewal)
 
 ## 🔗 Links
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/sophie-alpert)
-- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/sophiebits)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-alpert)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sophiebits)
