@@ -2,27 +2,28 @@
 **Software Engineer**  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="30"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" width="30"></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="30"></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" width="30"></a>
 </p>  
+
+---
+
+## 📊 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)  
 
 ---
 
 ## 📌 ABOUT ME  
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Node.js%22%2C%22React.js%22%2C%22JavaScript%22%2C%22Python%22%2C%22PostgreSQL%22%2C%22Docker%22%2C%22Git%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B25%2C20%2C20%2C10%2C10%2C5%2C10%5D%2C%22backgroundColor%22%3A%5B%22%23339933%22%2C%22%2361DAFB%22%2C%22%23F7DF1E%22%2C%22%233776AB%22%2C%22%234169E1%22%2C%22%232496ED%22%2C%22%23F05032%22%5D%7D%5D%7D%7D" alt="Skills Pie Chart" width="300">
-  <div>
-    <p align="left">
-      Hello, I'm **Mahaveer**, a **Software Engineer** and an **IIT Kanpur graduate**.  
-      I am a **passionate self-learner**, constantly exploring new technologies in **full-stack development** and **machine learning**.  
-      <br><br>
-      _"Life is full of opportunities—seize them wisely!"_
-    </p>
+  <div style="background-color:black; color:white; padding:20px; border-radius:10px; width:60%; text-align:center;">
+    <p><strong>Age:</strong> 23</p>
+    <p><strong>College:</strong> IIT Kanpur</p>
+    <p><strong>Location:</strong> India</p>
   </div>
-</p>  
+</p>
 
 ---
 
@@ -41,22 +42,50 @@
 ## 🛠️ TOOLS I USE  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" width="50" alt="Node.js"></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="50" alt="React.js"></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" width="50" alt="JavaScript"></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" width="50" alt="Python"></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" width="50" alt="PostgreSQL"></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="50" alt="Docker"></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" width="50" alt="Git"></a>
 </p>  
 
 ---
 
-### 📫 LET'S CONNECT  
+## 📌 MY PROJECTS  
+
+### Some of my recent projects:
+
+- **[Traceit](https://github.com/yourprofile/traceit)**  
+  A web application for FMCG product traceability using QR codes and integrated with WhatsApp for product journey tracking.
+
+- **[Task Manager](https://github.com/yourprofile/task-manager)**  
+  A full-stack task management application with authentication, CRUD operations, drag-and-drop features, and Google login.
+
+- **[Stock Price Prediction](https://github.com/yourprofile/stock-price-prediction)**  
+  Machine learning model for predicting stock prices using historical data.
+
+- **[Insurance Cost Prediction](https://github.com/yourprofile/insurance-cost-prediction)**  
+  A project to predict medical insurance costs using regression models.
+
+---
+
+## 📫 LET'S CONNECT  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="30" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" width="30" alt="Twitter"></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" width="30" alt="Instagram"></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" width="30" alt="Facebook"></a>
 </p>  
+
+---
+
+## 📜 ABOUT MY WORK  
+
+I have worked on multiple projects such as:
+
+- **Web Development**: Built web applications using **React.js**, **Node.js**, and **PostgreSQL** for data management.
+- **Machine Learning**: Applied **Python** for various predictive models like **stock price prediction** and **insurance cost prediction**.
+- **Backend Development**: Developed APIs and services using **Node.js**, **Express.js**, and **PostgreSQL** for robust, scalable solutions.
