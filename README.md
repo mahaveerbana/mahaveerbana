@@ -1,6 +1,6 @@
-# Hi, I'm Sophie 👋
+# Hi, I'm Mahaveer 👋
 
-I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building meaningful projects and contributing to the developer community.
+I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building meaningful projects and contributing to the developer community.I graduated with a B.Tech in Civil Engineering from **IIT Kanpur** in 2023
 
 ## 🧑‍💻 My Tech Stack
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -15,17 +15,18 @@ I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building me
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
 
 ## 🌱 I’m Currently Learning
-- **Deep Learning** with **PyTorch**
-- **Cloud Computing** (AWS, Azure)
+- Working on amazing  Development Projects
+- Learning Development technologies 
 
 ## 📊 GitHub Stats
-![Sophie's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophiebits&show_icons=true&hide_title=true&count_private=true&theme=blue-green)
+![Mahaveer's GitHub stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahaveerbana&show_icons=true&hide_title=true&count_private=true&theme=blue-green)
+)
 
 ## 📝 Featured Repositories
-- [Task Manager: A full-stack task management app](https://github.com/sophiebits/task-manager)
-- [Medical Insurance Prediction: A machine learning project predicting medical insurance costs](https://github.com/sophiebits/medical-insurance)
-- [Insurance Renewal Prediction: A machine learning project predicting insurance renewal likelihood](https://github.com/sophiebits/insurance-renewal)
+- [Task Manager: A full-stack task management app](https://github.com/mahaveerbana/task-manager)
+- [Medical Insurance Prediction: A machine learning project predicting medical insurance costs](https://github.com/mahaveerbana/Medical-Insurance-Cost-Prediction)
+- [Insurance Renewal Prediction: A machine learning project predicting insurance renewal likelihood](https://github.com/mahaveerbana/Insurance-Renewal-Prediction)
 
 ## 🔗 Links
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-alpert)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sophiebits)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mvbana/)
+
