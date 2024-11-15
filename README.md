@@ -3,16 +3,16 @@
 I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building meaningful projects and contributing to the developer community.
 
 ## 🧑‍💻 My Tech Stack
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="Node.js" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="Express.js" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Node.js_logo_2015.svg" alt="SQL" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/MongoDB_Logo.svg" alt="MongoDB" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C%2B%2B_Logo.svg" alt="C++" width="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/JavaScript-logo.svg" alt="JavaScript" width="20"/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-6CC24A?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-FFB13B?style=flat&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=black)
 
 ## 🌱 I’m Currently Learning
 - **Deep Learning** with **PyTorch**
@@ -27,5 +27,5 @@ I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building me
 - [Insurance Renewal Prediction: A machine learning project predicting insurance renewal likelihood](https://github.com/sophiebits/insurance-renewal)
 
 ## 🔗 Links
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/sophie-alpert)
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/sophiebits)
+- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/sophie-alpert)
+- [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/sophiebits)
