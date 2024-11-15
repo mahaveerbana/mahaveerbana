@@ -1,10 +1,6 @@
 # Mahaveer Bana  
 **Software Engineer**  
 
-<p align="left">
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-</p>
-
 ## 📌 ABOUT ME  
 
 Hello, I'm Mahaveer Bana, a passionate Software Engineer and a self-learner. I graduated from IIT Kanpur and specialize in full-stack development and machine learning.
@@ -58,8 +54,8 @@ Here are some of my projects:
 ## 📫 LET'S CONNECT  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="40" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" width="40" alt="Twitter"></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" width="40" alt="Instagram"></a>
-  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" width="40" alt="Facebook"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="50" alt="LinkedIn"></a>
+  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" width="50" alt="Twitter"></a>
+  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" width="50" alt="Instagram"></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" width="50" alt="Facebook"></a>
 </p>
