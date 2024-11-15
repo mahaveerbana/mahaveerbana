@@ -19,5 +19,5 @@ I'm a **Software Engineer** and **Open Source Contributor**. I enjoy building me
 - [Project 2: Machine Learning API](https://github.com/sophiebits/ml-api)
 
 ## 🔗 Links
-- [LinkedIn](https://www.linkedin.com/in/sophie-alpert)
-- [Twitter](https://twitter.com/sophiebits)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophie-alpert)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sophiebits)
